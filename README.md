@@ -1,5 +1,5 @@
 # The Weather app
-A ReactJS project.
+ReactJS project, this project was created to show other people my code
 
 ## Demo
 [Weather ReactJS App](https://baxadeveloper.github.io/weather-app/p)
