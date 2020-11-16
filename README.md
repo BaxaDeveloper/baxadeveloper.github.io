@@ -2,7 +2,7 @@
 A ReactJS project.
 
 ## Demo
-[Weather ReactJS App](https://xasanmirsharipov.github.io/weather-app)
+[Weather ReactJS App](https://baxadeveloper.github.io/weather-app/p)
 ## Build Setup
 ``` bash
 # install dependencies
