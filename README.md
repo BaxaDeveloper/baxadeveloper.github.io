@@ -1,6 +1,8 @@
 # The Weather app
 ReactJS project, this project was created to show other people my code
 
+![](https://github.com/BaxaDeveloper/baxadeveloper.github.iodocs/weather-app.png)
+
 ## Demo
 [Weather ReactJS App](https://baxadeveloper.github.io/weather-app/p)
 ## Build Setup
